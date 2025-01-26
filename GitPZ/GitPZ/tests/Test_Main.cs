@@ -6,7 +6,7 @@ namespace GitPZ.tests
     {
         public static void TestPrint()
         {
-            Utils.PrintMessage("Test");
+            Utils.PrintMessage("Test")  ;
         }
     }
 }

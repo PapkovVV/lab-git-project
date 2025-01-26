@@ -12,5 +12,7 @@ namespace GitPZ.src
         {
             Console.WriteLine(message);
         }
+
+        public static int AddNumbers(int a, int b) => a + b;
     }
 }

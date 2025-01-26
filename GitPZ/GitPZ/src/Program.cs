@@ -11,6 +11,7 @@ namespace GitPZ.src
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
+            Console.WriteLine(Utils.AddNumbers(2,3));
         }
     }
 }
