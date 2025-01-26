@@ -11,13 +11,10 @@ namespace GitPZ.src
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
-<<<<<<< HEAD
             Console.WriteLine(Utils.AddNumbers(2,3));
             Console.WriteLine(Utils.MultiplyNumbers(3,6));
             Console.WriteLine(Utils.AddNumbers(2, 3) + Utils.MultiplyNumbers(3, 6));
-=======
             Console.WriteLine(Utils.MultiplyNumbers(3,6));
->>>>>>> 9bc7a16 (Added func MultiplyNumbers)
         }
     }
 }
