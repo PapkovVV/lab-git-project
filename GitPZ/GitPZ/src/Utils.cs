@@ -14,5 +14,6 @@ namespace GitPZ.src
         }
 
         public static int AddNumbers(int a, int b) => a + b;
+        public static int MultiplyNumbers(int a, int b) => a * b;
     }
 }

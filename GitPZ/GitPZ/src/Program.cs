@@ -12,6 +12,7 @@ namespace GitPZ.src
         {
             Console.WriteLine("Hello, world!");
             Console.WriteLine(Utils.AddNumbers(2,3));
+            Console.WriteLine(Utils.MultiplyNumbers(3,6));
         }
     }
 }
