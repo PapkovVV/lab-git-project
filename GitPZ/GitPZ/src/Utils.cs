@@ -17,5 +17,7 @@ namespace GitPZ.src
         public static int MultiplyNumbers(int a, int b) => a * b;
 
         public static int SubNumbers(int a, int b) => a - b;
+        public static int SubNumbersX2(int a, int b) => a*2 - b*2;
+
     }
 }
