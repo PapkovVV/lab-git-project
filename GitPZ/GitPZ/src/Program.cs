@@ -15,6 +15,8 @@ namespace GitPZ.src
             Console.WriteLine(Utils.MultiplyNumbers(3,6));
             Console.WriteLine(Utils.AddNumbers(2, 3) + Utils.MultiplyNumbers(3, 6));
             Console.WriteLine(Utils.MultiplyNumbers(3,6));
+
+            Console.WriteLine("Это должно быть убрано!");
         }
     }
 }
