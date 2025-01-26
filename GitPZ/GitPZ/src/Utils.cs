@@ -12,5 +12,7 @@ namespace GitPZ.src
         {
             Console.WriteLine(message);
         }
+
+        public static int MultiplyNumbers(int a, int b) => a * b;
     }
 }
